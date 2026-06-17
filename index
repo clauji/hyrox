@@ -1,5 +1,4 @@
-# Modifying the HTML to reduce scanline opacity, adjust animations, and embed a stylized SVG Miles Morales peek element.
-html_v3_content = """<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
